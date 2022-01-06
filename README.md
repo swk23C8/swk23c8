@@ -3,8 +3,8 @@
 
 
 
-<!-- ##### NOW
-N/A -->
+##### NOW
+- ✏️ To do: make this profile README.md change icons automatically depending on darkmode/lightmode
 
 ##### BIO
 -  🙌 Hobbies: I'm passionate about 💻, love 🏋️ 💪, and playing games
