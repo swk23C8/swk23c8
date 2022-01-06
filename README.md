@@ -1,16 +1,16 @@
+
 ### Hi there 👋
 
-<!--
-**swk23C8/swk23c8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### NOW
+N/A
+
+##### BIO
+-  🙌 Hobbies: I'm passionate about 💻, love 🏋️ 💪, and playing games
+// - 🏢 I'm currently working at **Medicare Portugal**
+- 🏢 I'm currently grinding **LeetCode**
+- 👍 I like to use: <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/javascript.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/php.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/python.svg height="35" /></a>
+- 👊 I learned: <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/java.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/c.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/cplusplus.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/arduino.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/csharp.svg height="35" /></a>
+- 🌱 Learning all about: <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/vuedotjs.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/react.svg height="35" /></a> <a href="URL_REDIRECT" target="blank"><img align="center" src=https://simpleicons.org/icons/firebase.svg height="35" /></a>
+- ⚡️ Fun fact: I'm a homebody 🏠 
