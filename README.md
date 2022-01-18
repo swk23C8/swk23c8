@@ -5,6 +5,7 @@
 
 ##### NOW
 - ✏️ To do: make this profile README.md change icons automatically depending on darkmode/lightmode
+- ✏️ To do: develop & deploy md based github blog
 
 ##### BIO
 -  🙌 Hobbies: I'm passionate about 💻, love 🏋️ 💪, and playing games
