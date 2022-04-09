@@ -2,10 +2,12 @@
 <div align="center">
   <a href="#">
     <img src="https://github.com/swk23c8/swk23c8/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-    </a>
+  </a>
   <br />
   <br />
-  <img height="50" alt="Hello World! I like Node.js" src="https://raw.githubusercontent.com/swk23c8/swk23c8/master/images/personal_note.svg" />
+  <a href="#">
+    <img height="50" alt="Hello World! I like Node.js" src="https://raw.githubusercontent.com/swk23c8/swk23c8/master/images/personal_note.svg" />
+  </a>
   <br />
   <br />
 
@@ -22,7 +24,9 @@
 
 <!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <a href="#">
 <img alt="Globe" height="80" src="https://github.com/swk23c8/swk23c8/blob/main/images/globe.gif?raw=true">
+        </a>
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
