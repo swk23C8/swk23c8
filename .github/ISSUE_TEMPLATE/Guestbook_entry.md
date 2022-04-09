@@ -12,8 +12,8 @@ title: ''
 <!-- Let me know you've found me -->
 **I have found your README through:**
 
-- [ ] Awesome Github READMEs
-- [ ] Browsing Twitter
+- [ ] Discord
+- [ ] Browsing the interwebz
 - [ ] Browsing Github
 - [ ] Other: 
 
