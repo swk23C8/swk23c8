@@ -1,6 +1,8 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/swk23c8/swk23c8/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <a href="#">
+    <img src="https://github.com/swk23c8/swk23c8/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+    </a>
   <br />
   <br />
   <img height="50" alt="Hello World! I like Node.js" src="https://raw.githubusercontent.com/swk23c8/swk23c8/master/images/personal_note.svg" />
