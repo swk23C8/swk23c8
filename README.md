@@ -24,9 +24,7 @@
 
 <!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <a href="#">
 <img alt="Globe" height="80" src="https://github.com/swk23c8/swk23c8/blob/main/images/globe.gif?raw=true">
-        </a>
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -68,18 +66,24 @@
 <!-- Footer -->
 
 <div align="center">
-
+  <a href="#">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/swk23c8/swk23c8/main/images/marquee.svg" />
+    </a>
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/swk23c8/count.svg)
 
-
+  <a href="#">
 <img src="https://raw.githubusercontent.com/swk23c8/swk23c8/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
+      </a>
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+    <a href="#">
 <img src="https://raw.githubusercontent.com/swk23c8/swk23c8/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+            </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+      <a href="#">
 <img src="https://raw.githubusercontent.com/swk23c8/swk23c8/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
+                    </a>
 
 </div>
