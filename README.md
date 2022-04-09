@@ -71,7 +71,7 @@
     </a>
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/swk23c8/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/swk23c8/count.svg)](#)
 
   <a href="#">
 <img src="https://raw.githubusercontent.com/swk23c8/swk23c8/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
